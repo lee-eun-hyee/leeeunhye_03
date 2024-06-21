@@ -2,16 +2,16 @@
 
 
 @font-face {
-    font-family: "GmarketBold";
-    src: url("../src/font/GmarketSansTTFBold.ttf") format("truetype");
+    font-family: "NanumSquareB";
+    src: url("../src/font/NanumSquareB") format("truetype");
   }
   @font-face {
-    font-family: "GmarketMedium";
-    src: url("../src/font/GmarketSansTTFMedium.ttf") format("truetype");
+    font-family: "NanumSquareR";
+    src: url("../src/font/NanumSquareR.ttf") format("truetype");
   }
   
   * {
-    font-family: "GmarketMedium";
+    font-family: "NanumSquareR";
   }
   body {
     padding-top: 150px;
@@ -199,7 +199,7 @@
     margin-bottom: 17px;
     width: 110px;
     font-size: 22px;
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
     color: #2b90d9;
   }
   .txt-about {
@@ -245,7 +245,7 @@
   .section-project h2 {
     margin: 0 auto;
     display: inline-block;
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
     color: #2b90d9;
     font-size: 40px;
     margin-bottom: 40px;
@@ -286,13 +286,13 @@
     margin: 25px 0 0 40px;
   }
   .txt-project h3 {
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
     font-size: 28px;
     line-height: 35px;
     margin-bottom: 30px;
   }
   .txt-project dl dt {
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
     color: #2b90d9;
     font-size: 22px;
     margin-bottom: 6px;
@@ -307,7 +307,7 @@
     text-align: center;
   }
   #footer h2 {
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
     color: #2b90d9;
     font-size: 40px;
     margin-bottom: 50px;
@@ -365,7 +365,7 @@
     margin: 40px 0 7px 0;
     font-size: 25px;
     color: #2b90d9;
-    font-family: "GmarketBold";
+    font-family: "NanumSquareB";
   }
   .modal h4 {
     font-size: 20px;
