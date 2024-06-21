@@ -5,7 +5,7 @@ let moveToTop = function () {
   
   // 타이핑 효과
   const $txt = document.querySelector(".txt-title");
-  const content = "안녕하세요 :)\n이은혜입니다.";
+  const content = "Hello :)\nI'm Eunhye.";
   let contentIndex = 0;
   
   let typing = function () {
